@@ -4,3 +4,4 @@
 ## 2020-01-25 16:12:14 - feat(auth): implement auth module (14/20)
 ## 2020-02-01 17:29:15 - feat(queue): implement queue feature (17/20)
 ## 2020-02-02 21:09:12 - feat(metric): implement metric feature (2/20)
+## 2020-02-08 20:48:07 - feat(api): create api handler (13/20)
