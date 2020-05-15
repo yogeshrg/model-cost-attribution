@@ -8,3 +8,4 @@
 ## 2020-02-29 11:38:56 - feat(build): implement build module (17/20)
 ## 2020-04-09 15:52:23 - feat(api): implement api feature
 ## 2020-05-10 19:23:56 - feat(api): add api support (10/20)
+## 2020-05-15 23:20:09 - feat(core): implement core feature
