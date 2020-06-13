@@ -12,3 +12,4 @@
 ## 2020-05-24 21:15:19 - feat(queue): implement queue module (9/20)
 ## 2020-05-24 22:50:17 - feat(deploy): create deploy handler (20/20)
 ## 2020-06-06 16:09:49 - feat(core): implement core feature (2/20)
+## 2020-06-13 21:38:39 - feat(model): add model support (15/20)
