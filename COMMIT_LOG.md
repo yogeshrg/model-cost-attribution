@@ -15,3 +15,4 @@
 ## 2020-06-13 21:38:39 - feat(model): add model support (15/20)
 ## 2020-06-14 13:29:15 - feat(docs): add docs endpoint (13/20)
 ## 2020-07-04 11:34:13 - feat(ui): add ui endpoint (16/20)
+## 2020-07-19 14:50:27 - feat(data): implement data module (9/20)
