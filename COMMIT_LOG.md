@@ -16,3 +16,4 @@
 ## 2020-06-14 13:29:15 - feat(docs): add docs endpoint (13/20)
 ## 2020-07-04 11:34:13 - feat(ui): add ui endpoint (16/20)
 ## 2020-07-19 14:50:27 - feat(data): implement data module (9/20)
+## 2020-09-05 11:36:40 - feat(deploy): create deploy handler (18/20)
