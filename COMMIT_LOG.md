@@ -19,3 +19,4 @@
 ## 2020-09-05 11:36:40 - feat(deploy): create deploy handler (18/20)
 ## 2020-09-13 19:19:14 - feat(ui): create ui handler (3/20)
 ## 2020-09-20 11:49:34 - feat(security): implement security feature (19/20)
+## 2020-09-22 18:44:43 - feat(ci): create ci handler
