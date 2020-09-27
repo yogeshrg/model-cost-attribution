@@ -22,3 +22,4 @@
 ## 2020-09-22 18:44:43 - feat(ci): create ci handler
 ## 2020-09-26 15:25:27 - feat(ci): add ci support (10/20)
 ## 2020-09-26 23:50:07 - feat(deploy): add deploy endpoint (4/20)
+## 2020-09-27 15:56:26 - feat(model): create model handler (18/20)
