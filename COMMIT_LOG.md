@@ -24,3 +24,4 @@
 ## 2020-09-26 23:50:07 - feat(deploy): add deploy endpoint (4/20)
 ## 2020-09-27 15:56:26 - feat(model): create model handler (18/20)
 ## 2020-10-18 22:16:26 - feat(api): create api handler (4/20)
+## 2020-11-22 19:34:16 - feat(ui): implement ui module (14/20)
