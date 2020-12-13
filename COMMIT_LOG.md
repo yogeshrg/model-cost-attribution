@@ -26,3 +26,4 @@
 ## 2020-10-18 22:16:26 - feat(api): create api handler (4/20)
 ## 2020-11-22 19:34:16 - feat(ui): implement ui module (14/20)
 ## 2020-12-05 14:09:39 - feat(ui): implement ui feature (8/20)
+## 2020-12-13 19:59:54 - feat(data): add data support (14/20)
