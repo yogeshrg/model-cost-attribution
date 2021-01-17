@@ -28,3 +28,4 @@
 ## 2020-12-05 14:09:39 - feat(ui): implement ui feature (8/20)
 ## 2020-12-13 19:59:54 - feat(data): add data support (14/20)
 ## 2021-01-03 19:44:48 - feat(api): add api support (20/20)
+## 2021-01-17 22:22:58 - feat(cache): implement cache module (18/20)
