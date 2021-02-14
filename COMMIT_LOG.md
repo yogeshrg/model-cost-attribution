@@ -30,3 +30,4 @@
 ## 2021-01-03 19:44:48 - feat(api): add api support (20/20)
 ## 2021-01-17 22:22:58 - feat(cache): implement cache module (18/20)
 ## 2021-01-23 10:27:01 - feat(metric): add metric endpoint (1/20)
+## 2021-02-14 17:30:32 - feat(monitor): implement monitor module (11/20)
