@@ -31,3 +31,4 @@
 ## 2021-01-17 22:22:58 - feat(cache): implement cache module (18/20)
 ## 2021-01-23 10:27:01 - feat(metric): add metric endpoint (1/20)
 ## 2021-02-14 17:30:32 - feat(monitor): implement monitor module (11/20)
+## 2021-03-07 22:58:35 - feat(build): create build handler (8/20)
