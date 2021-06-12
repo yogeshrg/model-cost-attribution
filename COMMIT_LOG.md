@@ -38,3 +38,4 @@
 ## 2021-04-10 15:26:09 - feat(queue): implement queue module (3/20)
 ## 2021-05-22 13:34:39 - feat(build): create build handler (3/20)
 ## 2021-05-30 14:12:43 - feat(metric): add metric support (18/20)
+## 2021-06-12 16:44:08 - feat(security): create security handler (20/20)
