@@ -40,3 +40,4 @@
 ## 2021-05-30 14:12:43 - feat(metric): add metric support (18/20)
 ## 2021-06-12 16:44:08 - feat(security): create security handler (20/20)
 ## 2021-06-13 19:49:47 - feat(worker): add worker support (14/20)
+## 2021-06-27 14:23:31 - feat(queue): create queue handler (8/20)
