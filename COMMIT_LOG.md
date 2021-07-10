@@ -41,3 +41,4 @@
 ## 2021-06-12 16:44:08 - feat(security): create security handler (20/20)
 ## 2021-06-13 19:49:47 - feat(worker): add worker support (14/20)
 ## 2021-06-27 14:23:31 - feat(queue): create queue handler (8/20)
+## 2021-07-10 19:06:24 - feat(data): add data endpoint (2/20)
