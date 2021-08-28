@@ -45,3 +45,4 @@
 ## 2021-07-24 18:32:04 - feat(model): create model handler (18/20)
 ## 2021-08-15 14:02:18 - feat(auth): add auth support (15/20)
 ## 2021-08-24 20:41:35 - feat(api): add api endpoint
+## 2021-08-28 19:40:41 - feat(test): add test endpoint (18/20)
