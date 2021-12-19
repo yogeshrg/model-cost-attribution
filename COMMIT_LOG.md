@@ -51,3 +51,4 @@
 ## 2021-09-25 17:27:18 - feat(auth): create auth handler (6/20)
 ## 2021-11-14 19:24:50 - feat(log): add log support (19/20)
 ## 2021-11-24 11:28:07 - feat(log): implement log module
+## 2021-12-19 10:29:23 - feat(model): implement model feature (19/20)
