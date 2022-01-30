@@ -53,3 +53,4 @@
 ## 2021-11-24 11:28:07 - feat(log): implement log module
 ## 2021-12-19 10:29:23 - feat(model): implement model feature (19/20)
 ## 2022-01-15 13:38:46 - feat(ci): add ci support (20/20)
+## 2022-01-30 22:47:35 - feat(deploy): create deploy handler (5/20)
