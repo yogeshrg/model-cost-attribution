@@ -58,3 +58,4 @@
 ## 2022-03-19 18:38:02 - feat(data): add data endpoint (7/20)
 ## 2022-03-26 23:03:49 - feat(build): add build endpoint (14/20)
 ## 2022-04-16 21:55:17 - feat(log): add log endpoint (8/20)
+## 2022-04-17 10:05:38 - feat(docs): add docs endpoint (1/20)
