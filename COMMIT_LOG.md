@@ -62,3 +62,4 @@
 ## 2022-04-24 19:43:17 - feat(data): implement data feature (17/20)
 ## 2022-05-07 18:31:42 - feat(test): add test endpoint (12/20)
 ## 2022-06-05 11:35:00 - feat(data): implement data module (8/20)
+## 2022-06-18 13:20:03 - feat(alert): implement alert feature (2/20)
