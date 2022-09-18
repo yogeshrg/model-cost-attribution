@@ -68,3 +68,4 @@
 ## 2022-07-23 14:23:54 - feat(infra): implement infra feature (12/20)
 ## 2022-08-02 15:11:37 - feat(config): implement config feature
 ## 2022-09-11 16:07:58 - feat(db): implement db feature (15/20)
+## 2022-09-18 10:53:23 - feat(db): create db handler (3/20)
