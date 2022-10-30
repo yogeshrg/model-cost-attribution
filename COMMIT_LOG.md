@@ -72,3 +72,4 @@
 ## 2022-10-01 21:03:39 - feat(docs): create docs handler (10/20)
 ## 2022-10-09 23:48:41 - feat(alert): implement alert feature (16/20)
 ## 2022-10-30 21:11:51 - feat(model): create model handler (16/20)
+## 2022-10-30 22:43:12 - feat(auth): add auth support (6/20)
