@@ -77,3 +77,4 @@
 ## 2022-11-05 20:27:38 - feat(cache): implement cache module (19/20)
 ## 2022-11-06 15:42:34 - feat(security): create security handler (10/20)
 ## 2022-12-03 12:02:00 - feat(auth): create auth handler (9/20)
+## 2022-12-11 10:24:43 - feat(deploy): add deploy support (5/20)
