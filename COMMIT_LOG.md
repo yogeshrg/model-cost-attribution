@@ -80,3 +80,4 @@
 ## 2022-12-11 10:24:43 - feat(deploy): add deploy support (5/20)
 ## 2023-01-21 14:46:28 - feat(cache): create cache handler (6/20)
 ## 2023-02-05 23:08:53 - feat(ci): add ci endpoint (12/20)
+## 2023-02-11 16:57:45 - feat(config): add config support (12/20)
