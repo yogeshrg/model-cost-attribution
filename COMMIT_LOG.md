@@ -82,3 +82,4 @@
 ## 2023-02-05 23:08:53 - feat(ci): add ci endpoint (12/20)
 ## 2023-02-11 16:57:45 - feat(config): add config support (12/20)
 ## 2023-02-26 11:18:11 - feat(auth): implement auth module (18/20)
+## 2023-03-04 19:29:35 - feat(core): implement core module (15/20)
