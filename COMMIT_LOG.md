@@ -91,3 +91,4 @@
 ## 2023-04-01 21:25:27 - feat(build): add build endpoint (3/20)
 ## 2023-04-08 17:54:45 - feat(queue): create queue handler (12/20)
 ## 2023-04-09 20:30:50 - feat(worker): implement worker module (2/20)
+## 2023-04-30 16:50:50 - feat(model): create model handler (13/20)
