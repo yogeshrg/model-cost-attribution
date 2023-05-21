@@ -93,3 +93,4 @@
 ## 2023-04-09 20:30:50 - feat(worker): implement worker module (2/20)
 ## 2023-04-30 16:50:50 - feat(model): create model handler (13/20)
 ## 2023-05-07 09:45:53 - feat(cache): create cache handler (4/20)
+## 2023-05-21 09:55:01 - feat(config): add config support (1/20)
