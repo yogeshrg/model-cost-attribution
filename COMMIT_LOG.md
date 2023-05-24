@@ -94,3 +94,4 @@
 ## 2023-04-30 16:50:50 - feat(model): create model handler (13/20)
 ## 2023-05-07 09:45:53 - feat(cache): create cache handler (4/20)
 ## 2023-05-21 09:55:01 - feat(config): add config support (1/20)
+## 2023-05-24 11:38:09 - feat(alert): implement alert feature
