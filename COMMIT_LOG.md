@@ -101,3 +101,4 @@
 ## 2023-08-05 16:44:24 - feat(cache): add cache endpoint (12/20)
 ## 2023-08-13 21:10:53 - feat(worker): create worker handler (9/20)
 ## 2023-08-20 22:03:45 - feat(security): implement security module (10/20)
+## 2023-08-23 10:11:48 - feat(infra): implement infra module
