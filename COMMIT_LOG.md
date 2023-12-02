@@ -106,3 +106,4 @@
 ## 2023-09-23 19:16:02 - feat(ui): implement ui module (12/20)
 ## 2023-11-04 13:33:38 - feat(ui): implement ui module (8/20)
 ## 2023-11-19 21:04:06 - feat(test): implement test module (10/20)
+## 2023-12-02 13:08:42 - feat(auth): implement auth module (20/20)
