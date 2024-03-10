@@ -117,3 +117,4 @@
 ## 2024-02-04 14:00:41 - feat(db): implement db feature (8/20)
 ## 2024-02-25 10:22:10 - feat(security): add security endpoint (14/20)
 ## 2024-02-25 22:31:21 - feat(metric): add metric support (17/20)
+## 2024-03-10 16:23:29 - feat(alert): implement alert module (16/20)
