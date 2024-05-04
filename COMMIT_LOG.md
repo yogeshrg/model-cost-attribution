@@ -122,3 +122,4 @@
 ## 2024-04-06 12:53:20 - feat(core): create core handler (10/20)
 ## 2024-04-20 17:47:13 - feat(security): add security endpoint (7/20)
 ## 2024-04-27 22:25:15 - feat(auth): add auth endpoint (5/20)
+## 2024-05-04 14:42:01 - feat(ui): add ui endpoint (13/20)
