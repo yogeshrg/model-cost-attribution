@@ -123,3 +123,4 @@
 ## 2024-04-20 17:47:13 - feat(security): add security endpoint (7/20)
 ## 2024-04-27 22:25:15 - feat(auth): add auth endpoint (5/20)
 ## 2024-05-04 14:42:01 - feat(ui): add ui endpoint (13/20)
+## 2024-05-11 14:47:48 - feat(ui): add ui support (18/20)
