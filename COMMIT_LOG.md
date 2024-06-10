@@ -125,3 +125,4 @@
 ## 2024-05-04 14:42:01 - feat(ui): add ui endpoint (13/20)
 ## 2024-05-11 14:47:48 - feat(ui): add ui support (18/20)
 ## 2024-06-02 15:07:41 - feat(test): add test support (12/20)
+## 2024-06-10 23:45:25 - feat(infra): create infra handler
