@@ -127,3 +127,4 @@
 ## 2024-06-02 15:07:41 - feat(test): add test support (12/20)
 ## 2024-06-10 23:45:25 - feat(infra): create infra handler
 ## 2024-06-22 12:27:28 - feat(auth): implement auth module (1/20)
+## 2024-06-23 18:58:24 - feat(security): create security handler (13/20)
