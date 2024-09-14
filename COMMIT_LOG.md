@@ -134,3 +134,4 @@
 ## 2024-07-28 12:17:08 - feat(monitor): implement monitor module (8/20)
 ## 2024-08-25 16:40:25 - feat(cache): add cache endpoint (12/20)
 ## 2024-09-05 19:34:07 - feat(model): add model endpoint
+## 2024-09-14 11:30:55 - feat(worker): add worker endpoint (6/20)
