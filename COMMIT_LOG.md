@@ -140,3 +140,4 @@
 ## 2024-10-12 18:09:32 - feat(ui): add ui endpoint (14/20)
 ## 2024-10-26 14:51:01 - feat(security): implement security feature (7/20)
 ## 2024-11-23 15:43:48 - feat(ci): implement ci module (1/20)
+## 2024-11-24 18:39:20 - feat(auth): add auth endpoint (9/20)
