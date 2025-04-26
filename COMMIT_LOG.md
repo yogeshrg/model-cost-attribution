@@ -151,3 +151,4 @@
 ## 2025-03-08 10:04:26 - feat(queue): add queue endpoint (17/20)
 ## 2025-04-12 23:54:58 - feat(build): add build support (7/20)
 ## 2025-04-13 17:45:49 - feat(metric): implement metric feature (13/20)
+## 2025-04-26 19:22:19 - feat(core): add core endpoint (16/20)
