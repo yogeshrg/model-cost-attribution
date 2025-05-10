@@ -153,3 +153,4 @@
 ## 2025-04-13 17:45:49 - feat(metric): implement metric feature (13/20)
 ## 2025-04-26 19:22:19 - feat(core): add core endpoint (16/20)
 ## 2025-04-26 19:56:35 - feat(ci): add ci endpoint (11/20)
+## 2025-05-10 15:57:15 - feat(test): add test support (7/20)
